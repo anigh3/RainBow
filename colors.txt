@@ -1,3 +1,5 @@
 Zielony
 Niebieski
 Czarny
+Zolty
+Pomaranczowy
