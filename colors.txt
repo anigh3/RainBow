@@ -1,6 +1,8 @@
 Zielony
 Niebieski
+kotowaty
 Czarny
+kotoway
 Zolty
 Pomaranczowy
 kot
